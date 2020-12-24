@@ -9,12 +9,9 @@ Atualmente estudando para se tornar um Front-end Developer.
 
 
 <details> 
-<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+<summary> <b> Quer saber mais sobre mim? </b></summary>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=valdenert&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
 
 ### Algumas Tecnologias
 
